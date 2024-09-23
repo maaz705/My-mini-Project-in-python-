@@ -39,3 +39,8 @@ else:
     print("Invalid choice! Please choose Rock, Paper, or Scissor.")
 ```
 
+######
+If you need to understand this code and determine what has happened and how it has occurred.
+
+
+[to watch this video](https://www.youtube.com/watch?v=OvsoAMA_P00&list=PL3JNM3ENFH-5r3mRfuIbXLRCvtNK0FhmU&index=3)
