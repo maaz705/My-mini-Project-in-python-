@@ -14,7 +14,7 @@ This project is a great starting point for those new to programming,
 offering a hands-on approach to learning how to build simple interactive applications.
 
 
-####  If you need to understand this code and determine what has happened and how it has occurred.
+##### For a detailed walkthrough of the game logic and coding process, refer to the
 
   [To watch this video on youtube](https://www.youtube.com/watch?v=OvsoAMA_P00&list=PL3JNM3ENFH-5r3mRfuIbXLRCvtNK0FhmU&index=3)
 
