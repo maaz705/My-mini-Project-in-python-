@@ -13,6 +13,7 @@ It highlights the use of if-else conditions, user input processing, and the rand
 This project is a great starting point for those new to programming,
 offering a hands-on approach to learning how to build simple interactive applications.
 
+--------
 
 ##### For a detailed walkthrough of the game logic and coding process, refer to the
 
